@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "b0d31335-2a03-49e1-9a88-52052150776e",
+      "username": "karan",
+      "email": "karan.test@example.com",
+      "password": "$2b$10$EKWHERG0PSPNzJubKWeXL.CsscGiA.mMwkRgcWu/ab4fE59WrqbiW",
+      "role": "user"
+    }
+  ],
+  "notes": []
+}
